@@ -1,0 +1,6 @@
+*.log
+.sass-cache
+scss
+.env
+.env.sh
+node_modules
